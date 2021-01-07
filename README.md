@@ -73,7 +73,7 @@ La ventana principal en la cual, debemos establecer los valores para filtrar nue
 ![](figures/Busqueda.png)
 
 Una ventana que accedimos atraves de ella por un JPanel, la cual nos muestra los resultados de nuestra busqueda.
-![](figures/Resultados.png
+![](figures/Resultados.png)
 
 La ultima ventana que nos nuestra las rutas o datos seleccionados de nuestros terremotos filtrados.
 ![](figures/Datos.png)
