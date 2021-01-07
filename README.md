@@ -78,6 +78,8 @@ Una ventana que accedimos atraves de ella por un JPanel, la cual nos muestra los
 La ultima ventana que nos nuestra las rutas o datos seleccionados de nuestros terremotos filtrados.
 ![](figures/Datos.png)
 
+07/01/2020 3:46 p.m.      Mexico
+
 
 
 
